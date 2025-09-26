@@ -1,6 +1,6 @@
 # ProF: Provable Fairness Repair for Deep Neural Networks
 
-This repository contains the code and scripts for the paper "Provable Fairness Repair for Deep Neural Networks", accepted in ASE 2025.
+This repository contains the code and scripts for the paper "Provable Fairness Repair for Deep Neural Networks", accepted in ASE 2025. It also includes the supplementary materials of the paper.
 
 ## Project Structure
 ```
